@@ -7,3 +7,8 @@
 课程主页：https://www.aspirantzhang.com/antdprov5.html
 
 维护截止：2022 年 12 月，超过该日期后将不提供咨询，或可能下线视频。
+
+线上地址
+https://www.aspirantzhang.com/antdprov5.html
+https://public-api-v2.aspirantzhang.com/admin/basic-list/api/rules
+
